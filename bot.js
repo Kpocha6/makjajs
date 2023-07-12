@@ -6,10 +6,10 @@ dotenv.config();
 
 // Configuración de autenticación de Twitter
 const T = new Twit({
-    consumer_key: 'CIEG7kE0h7pmoSIOUFAITVvjM',
-    consumer_secret: 'yktwJzUMsPAYQikRUeLOD7xcxtqDFeZ2PTbi6KeVZfF8duD2hq',
-    access_token: '1678888146069512193-s1CLY85ehCSghDmz8D4akTvVAXLqCE',
-    access_token_secret: 'YejaF6mlTqgsGnxUnWmoIHiB7t52IwQIsiSd4Da04Dteb',
+    consumer_key: 'ROoBcJMR37DPXivQIZYX8kwOw',
+    consumer_secret: '8YS8DqiYPrpN6cLW5OR5n4plD6tnz4XDn9qIGv7kdMBiYHm2bu',
+    access_token: '1678888146069512193-aCK25KDO8n3PoOanptMjVSJxKu94tb',
+    access_token_secret: 'tX9CMYYLF9PaXnQTfgNxYwSUOxkXvFF6LOQ3zbva35JZk',
 });
 
 // Ruta principal que muestra el archivo HTML
